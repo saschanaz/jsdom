@@ -74,7 +74,7 @@
     "st": "^1.2.2",
     "watchify": "^3.11.0",
     "wd": "^1.10.3",
-    "webidl2js": "^9.0.1"
+    "webidl2js": "github:saschanaz/webidl2js#webidl2"
   },
   "browser": {
     "canvas": false,
